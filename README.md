@@ -1,4 +1,5 @@
-# hello-world
-Just a test
+Erro em Firefox:
+SyntaxError: import declarations may only appear at top level of a module
 
-It's a simple change for learning the creating a Branch.
+Erro no Chrome:
+"Uncaught SyntaxError: Unexpected identifier"  no arquivo "bundle.js" linha: import Title from './app'
